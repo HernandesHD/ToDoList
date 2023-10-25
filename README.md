@@ -13,6 +13,9 @@ The project is a To-Do List.
 ### FRAMEWORKS
 > Spring Boot - Version: 3.1.5
 
+### LIBRARY
+> Lombok (latest version) 
+
 ### DEPENDENCY MANAGER
 > Maven
 
