@@ -26,7 +26,7 @@ The project is a To-Do List.
 
 > POST method: /register
 
-Acesse o link a seguir para chamar o serviço de cadastro de usuário:
+Access the following link to call the user registration service:
 > http://localhost:8080/api/v1/users/register
 
 #### REQUEST BODY
